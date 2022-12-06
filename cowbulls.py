@@ -1,3 +1,4 @@
+""" program has already been editted"""
 import random
 
 def compare_numbers(number, user_guess):
