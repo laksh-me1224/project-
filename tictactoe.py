@@ -2,7 +2,7 @@
 
 # Find the 4 errors in the code and fix them,
 # so the game works as expected.
-""" the corections in the program has been made"""
+""" the corrections in the program has been made"""
 
 def draw_line(width, edge, filling):
     print(filling.join([edge] * (width + 1)))
