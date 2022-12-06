@@ -1,3 +1,4 @@
+""" program has been edited"""
 greeting = input("Hello, possible pirate! What's the password?")
 if (greeting =="Arrr!"):
 	print("Go away, pirate.")
